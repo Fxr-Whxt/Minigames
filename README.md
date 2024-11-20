@@ -8,7 +8,7 @@
 # Minigame 1 : Bouncing ball 
 
 
-<img src="assets/ezgif-2-832d032d81.gif">
+<img src="bouncingball/assets/ezgif-2-832d032d81.gif">
 
 ## Description:
 
@@ -41,7 +41,7 @@ other libraries has installed on base python,so that ok
 
 just install or copy code, here:
 
-[Game-ball](/poprigunchik.py) - here
+[Game-ball](bouncingball/code/poprigunchik.py) - here
 
 
 
