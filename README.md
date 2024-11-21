@@ -4,6 +4,7 @@
 
 
 [bouncing_ball](#minigame-1--bouncing-ball)
+[stickman_goes_to_exit](#minigame-2-stickman-go-to-the-exit)
 
 # Minigame 1 : Bouncing ball 
 
@@ -45,4 +46,52 @@ just install or copy code, here:
 
 
 
-# Minigame 2: 
+# Minigame 2: Stickman-go-to-the-exit
+
+This is a minigame that you can play 
+
+### Gameplay
+
+<img src="Stickman_go_to_exit/for readme/start.gif">
+
+
+
+## Description:
+
+This is just my little project where i used to train this libraries: tkinter, time, random, os
+
+<b> In this minigame you must as a Stickman try to exit the level.
+
+## How to play:
+
+Movement is simple, just use a arrows on your keyboard</b>
+
+### Jump : Arrow up 
+
+### Run to left : Arrow left 
+
+### Run to right : Arrow right
+
+
+## How to install:
+
+### just install 1 folder: 
+
+[Folder](Stickman_go_to_exit/assets%20and%20code/)
+
+#### 1: code of game
+
+#### 2: assets for game
+
+### that will be in one folder 
+
+
+
+## Finish gameplay
+
+<img src="Stickman_go_to_exit/for readme/finish.gif">
+
+
+# Minigame 3:
+
+
