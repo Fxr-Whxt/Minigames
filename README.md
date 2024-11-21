@@ -1,4 +1,8 @@
+<div align="center">
+
 # Minigames
+
+look here ! :)
 
 ### I decided to delete the previous repositories with minigames and add them all into 1. Later, maybe I will add more minigames and how to install them and play in general, these are simple projects to improve skillsS
 
@@ -125,3 +129,5 @@ just install code from here :
 
 
 
+
+</div>
