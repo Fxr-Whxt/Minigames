@@ -3,8 +3,16 @@
 ### I decided to delete the previous repositories with minigames and add them all into 1. Later, maybe I will add more minigames and how to install them and play in general, these are simple projects to improve skillsS
 
 
+
+## Navigation
+
+### Python
+
 [bouncing_ball](#minigame-1--bouncing-ball) \
-[stickman_goes_to_exit](#minigame-2-stickman-go-to-the-exit)
+[stickman_goes_to_exit](#minigame-2-stickman-go-to-the-exit) \
+[TicTacToe_in_terminal](#minigame-3-tictactoe-in-terminal)
+
+
 
 # Minigame 1 : Bouncing ball 
 
@@ -100,7 +108,7 @@ Here is my minigame that i make without any libraries
 <b>just a normal Tic Tac Toe on Python</b>
 
 
-# Gameplay:
+## Gameplay:
 
 ### Description
 X and O here one by one playing, You can play with your friends like someone chose a coordinates and write a number of that and there will write X or O 
@@ -109,7 +117,7 @@ So for play just write a number 1 - 9
 
 <img src="TicTacToe_in_terminal/assets/ezgif-1-3495b86694.gif">
 
-# How to install: 
+## How to install: 
 
 just install code from here :
 
