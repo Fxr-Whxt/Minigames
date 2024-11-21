@@ -3,7 +3,7 @@
 ### I decided to delete the previous repositories with minigames and add them all into 1. Later, maybe I will add more minigames and how to install them and play in general, these are simple projects to improve skillsS
 
 
-[bouncing_ball](#minigame-1--bouncing-ball)
+[bouncing_ball](#minigame-1--bouncing-ball) \
 [stickman_goes_to_exit](#minigame-2-stickman-go-to-the-exit)
 
 # Minigame 1 : Bouncing ball 
@@ -92,6 +92,28 @@ Movement is simple, just use a arrows on your keyboard</b>
 <img src="Stickman_go_to_exit/for readme/finish.gif">
 
 
-# Minigame 3:
+# Minigame 3: TicTacToe in terminal
+
+
+Here is my minigame that i make without any libraries
+
+<b>just a normal Tic Tac Toe on Python</b>
+
+
+# Gameplay:
+
+### Description
+X and O here one by one playing, You can play with your friends like someone chose a coordinates and write a number of that and there will write X or O 
+
+So for play just write a number 1 - 9
+
+<img src="TicTacToe_in_terminal/assets/ezgif-1-3495b86694.gif">
+
+# How to install: 
+
+just install code from here :
+
+[Code](TicTacToe_in_terminal/code/krestiki_noliki.py)
+
 
 
