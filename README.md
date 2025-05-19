@@ -128,6 +128,13 @@ just install code from here :
 [Code](TicTacToe_in_terminal/code/krestiki_noliki.py)
 
 
+# Minigame 4: Checkers 
 
+This is a normal checkers game that I made for the entrance exam to an educational institution, there is a visual difference in that instead of the usual checkers, there is supposedly a battle between spiders and cats where the spiders are you and your task is to win, there is no bot, only a game in turns with yourself, or with a friend, changing
+
+
+<img src="Checkersgame/main lobby .png"></img>
+
+<img src="Checkersgame/gaming.gif"></img>
 
 </div>
