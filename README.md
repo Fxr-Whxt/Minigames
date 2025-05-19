@@ -130,11 +130,21 @@ just install code from here :
 
 # Minigame 4: Checkers 
 
+### Decription:
 This is a normal checkers game that I made for the entrance exam to an educational institution, there is a visual difference in that instead of the usual checkers, there is supposedly a battle between spiders and cats where the spiders are you and your task is to win, there is no bot, only a game in turns with yourself, or with a friend, changing
 
-
+### Maybe future mainscreen:
 <img src="Checkersgame/main lobby .png"></img>
 
+### Gameplay:
 <img src="Checkersgame/gaming.gif"></img>
+
+
+## how to play :
+
+<b>Just install this folder and run a python code</b>
+
+[Folder](/Checkersgame)
+
 
 </div>
